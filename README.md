@@ -21,6 +21,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for ways to get started.
 
 - [@akshay-99h](https://www.github.com/akshay-99h)
 - [@reeba212](https://github.com/reeba212)
+- [@Vaijayanthi-Sambath-Kumar](https://github.com/Vaijayanthi-Sambath-Kumar)
 
 ## Acknowledgements
 
